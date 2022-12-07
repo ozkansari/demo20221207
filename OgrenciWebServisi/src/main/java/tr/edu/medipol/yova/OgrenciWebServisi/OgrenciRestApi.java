@@ -15,6 +15,7 @@ public class OgrenciRestApi {
 		OGRENCILER.add("Jane");
 		OGRENCILER.add("Joe");
 		OGRENCILER.add("Henry");
+		OGRENCILER.add("Johny");
 	}
 	
 	@GetMapping("/listele")
